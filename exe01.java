@@ -21,5 +21,6 @@ public class exe01 {
         }
         System.out.println("Acesso Permitido!");
 
+        scanner.close();
     }
 }
